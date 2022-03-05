@@ -1,0 +1,1 @@
+Execute the provided notebooks using anaconda navigator. All the required packages have been provided as the part of the notebooks itself.
